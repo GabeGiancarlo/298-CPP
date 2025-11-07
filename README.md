@@ -67,7 +67,7 @@ g++ -std=c++11 main.cpp Student.cpp Course.cpp -o database
 - **Name**: Gabriel Giancarlo
 - **Course**: CPSC 298 C++
 - **Semester**: Fall 2025
-- **Institution**: [Your Institution]
+- **Institution**: chapman
 
 ## Repository Information
 
